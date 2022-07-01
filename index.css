@@ -1,0 +1,64 @@
+* {
+margin: 0px;
+padding: 0px;
+
+}
+
+li {
+list-style: none;
+}
+
+body {
+  background-color: hsl(346, 43%, 25%);
+  
+  height: 100vh;
+
+  display: grid;
+  align-items: center;
+}
+#relogio {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
+ gap: 5rem;
+ padding: 2rem;
+ justify-content: center;
+ 
+
+}
+
+
+#relogio .countdown li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  padding: 1rem;
+  color: rgb(48, 0, 238);
+  background: #dbb809;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
+  text-align: center;
+
+}
+
+#relogio .countdown {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.logo {
+text-align: center;
+ 
+}
+
+h1 {
+
+color: #dbb809;
+text-align: center;
+margin-bottom: 2rem;
+
+
+}
+

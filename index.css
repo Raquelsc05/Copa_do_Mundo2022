@@ -16,6 +16,12 @@ body {
   display: grid;
   align-items: center;
 }
+
+.logo {
+text-align: center;
+border-bottom: 3rem;
+
+}
 #relogio {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
@@ -48,9 +54,13 @@ body {
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.logo {
-text-align: center;
- 
+
+.Capa {
+
+display: grid;
+width: auto;
+height: auto;
+
 }
 
 h1 {

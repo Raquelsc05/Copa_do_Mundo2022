@@ -11,29 +11,34 @@ list-style: none;
 body {
   background-color: hsl(346, 43%, 25%);
   
-  height: 100vh;
+  height: 100px;
 
   display: grid;
   align-items: center;
+ 
 }
 
 .logo {
 text-align: center;
 border-bottom: 3rem;
+height: 100px;
+margin-left: 22rem;
 
 }
 .laeeb {
 margin-left: 18rem;
 
 }
+
 #relogio {
  display: grid;
+ text-align: left;
  grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
  gap: 5rem;
  padding: 2rem;
- justify-content: center;
  
 
+ 
 }
 
 
@@ -58,16 +63,15 @@ margin-left: 18rem;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-
 h1 {
 
 color: #dbb809;
-text-align: center;
+text-align: left;
 margin-bottom: 2rem;
+margin-left: 8rem;
 
 
 }
-
 .Capa {
 
   margin-inline: auto;
@@ -103,7 +107,9 @@ h2 {
   border: none;
   border-radius: 15px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
 }
+
 
 button:hover {background-color: hsl(346, 43%, 25%);
   color: white;

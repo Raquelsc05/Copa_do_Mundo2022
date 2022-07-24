@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  }
+  :root {
+
+    font-size: 62.5%; /* 1rem= 10px*/
+    
+    
+    }
+body {
+  font-family: 'Dm Sans';
+  font-size: 1.6rem;
+  text-align: center;
+  background: rgba(255, 0, 0, 0.793);
+  }
+
+h1 {
+color: white;
+margin-top: 3rem;
+margin-bottom: 3rem;
+font-size: 5.5rem;
+text-align: center;
+margin-inline: auto;
+
+
+}
+image {
+ max-width: 100%;
+ max-height: 100%;
+
+
+
+}
+
+p {
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  justify-items: center;
+  text-align: center;
+  margin-inline: auto;
+ color: white;
+
+
+}

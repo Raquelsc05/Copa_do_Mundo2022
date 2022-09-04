@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+  }
+  :root {
+
+    font-size: 62.5%; /* 1rem= 10px*/
+    
+    
+    }
+body {
+  font-family:'Dm Sans';
+  font-size: 1.6rem;
+  text-align: center;
+  background: hsl(346, 43%, 25%);
+  justify-content: center;
+
+  overflow: overlay;
+  
+  width: 37.5rem;
+  margin-inline: auto;
+  padding-inline: 2.4rem;
+  }
+
+  header h1 {
+
+    color: white;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    font-size: 5.5rem;
+    text-align: center;
+    margin-inline: auto;
+  }
+ #fotos h2 {
+  display: flex;
+  flex-direction: column;
+ 
+  margin-top: 3rem;
+  text-align: center;
+  margin-inline: auto;
+
+  color: rgb(251, 255, 14);
+  margin-bottom: 3rem;
+  font-size: 4.5rem;
+  font
+      
+      
+}
+#fotos .mapa img {
+
+  width: 36.5rem;
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  text-align: center;
+ 
+  border-radius: 1.5rem;
+  margin-bottom: 3rem;
+}
+  #fotos .gallery  {
+ 
+  display: flex;
+ flex-direction: column;
+ box-sizing: border-box;
+ gap: 3.2rem;
+ width: 37.5rem;
+
+ 
+ text-align: center;
+
+}
+
+#fotos .sedes {
+
+text-align: center;
+justify-content: center;
+
+border: 1px solid white;
+  box-sizing: border-box;
+  border-radius: .6rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+  padding: 1rem;
+
+
+
+}
+ #fotos .sedes img {
+
+   width: 33.5rem;
+    margin-inline: auto;
+    text-align: center;
+    margin-bottom: 3rem;
+    box-sizing: border-box;
+
+  }
+ .gallery p {
+ 
+  width: 33.5rem;
+  margin-block: 1.6rem;
+  text-align: center;
+  margin-inline: auto;
+  color:white;
+  text-align: left;
+  line-height: 150%;
+  font-size: 400;
+  
+ 
+  }

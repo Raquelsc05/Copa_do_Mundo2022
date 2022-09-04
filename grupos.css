@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+  }
+  
+  :root {
+  
+  font-size: 62.5%;
+  background:  hsl(346, 43%, 25%);
+  
+  }
+  body {
+    font-family: 'Dm Sans';
+    font-size: 2rem;
+    text-align: center;
+    margin-inline: auto;
+    width: 37.5rem;
+  
+    
+  }
+
+  header h1{
+  color: white;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  
+
+  }
+
+  header h2 {
+ color: rgb(64, 12, 138);
+ background: beige;
+ border: 1.5px solid gray;
+ margin-top: 3rem;
+ 
+ }
+
+  .grupos h3{
+    
+   justify-content: center;
+    box-sizing: border-box;
+     
+  
+      display: flex;
+      flex-direction: column;
+     text-align: center;
+    
+     background-color: beige;
+  }
+  
+ .grup img {
+  margin-top: 1rem;
+  margin-left: 9rem;
+  justify-items: center;
+  text-align: center;
+  margin-inline: auto;
+}
+  

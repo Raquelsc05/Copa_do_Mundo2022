@@ -37,12 +37,16 @@ image {
 
 p {
   display: flex;
+  flex-direction: column;
   margin-top: 2rem;
   margin-bottom: 3rem;
   justify-items: center;
-  text-align: center;
   margin-inline: auto;
- color: white;
+
+  color: white;
+  font-size: 400;
+  text-align: left;
+
 
 
 }

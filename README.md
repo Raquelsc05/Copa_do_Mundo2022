@@ -2,4 +2,4 @@
 Website about Wolrd Cup Catar 2022 - Always updating 🚧 
 
 Copa do Mundo chegando esse site te atualizará sobre os jogos, resultados e muito mais...
-![alt text] (../images/Capawfc22 - Copia - Copia.png)
+![alt text](../images/Capawfc22 - Copia - Copia.png)

@@ -7,10 +7,10 @@
   
   :root {
   
-  font-size: 62.5%;
-  background: hsla(296, 92%, 10%, 0.632);
-  
-  }
+    font-size: 62.5%;
+    background:  hsl(346, 43%, 25%);
+    
+    }
   body {
     font-family: 'Dm Sans';
     font-size: 2rem;

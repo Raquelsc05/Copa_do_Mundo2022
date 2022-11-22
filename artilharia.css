@@ -62,4 +62,24 @@
     border-radius: 1.5rem;
     margin-bottom: 3rem;
   }
- 
+  table{
+    color: blue;
+    background-color: white;
+    border-spacing: 0.9rem;
+    
+    
+    
+      }
+      thead {
+        background-color: aqua;
+        
+    
+        
+      }
+      
+    
+    tr {
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit;
+    }

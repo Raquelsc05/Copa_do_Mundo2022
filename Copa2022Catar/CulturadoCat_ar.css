@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+  }
+  
+  :root {
+  
+  font-size: 62.5%;
+  background:  hsl(346, 43%, 25%);
+  
+  }
+  body {
+    font-family: 'Dm Sans';
+    font-size: 2rem;
+    
+    margin-inline: auto;
+    width: 37.5rem;
+   color: white;
+
+    
+  }
+
+  #Curiosidades h2 {
+
+    
+    text-align: center;
+    color: gold;
+    margin-top: 3rem;
+    margin-buttom: 3rem;
+
+  }
+
+  #Curiosidades p {
+    margin-top: 1rem;
+    margin-buttom:3rem;
+    text-align: left;
+
+  }

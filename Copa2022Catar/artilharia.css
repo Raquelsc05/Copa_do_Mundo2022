@@ -1,0 +1,86 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+  }
+  
+  :root {
+  
+  font-size: 62.5%;
+  background:  hsl(346, 43%, 25%);
+  
+  }
+  body {
+    font-family: 'Dm Sans';
+    font-size: 2rem;
+    text-align: center;
+    margin-inline: auto;
+    width: 37.5rem;
+    
+  }
+
+  header h1{
+ 
+  color: white;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-inline: auto;
+  width: 37.5rem;
+
+  display: flex;
+  flex-direction: column;
+
+ 
+
+  }
+
+  main img {
+
+  
+    width: 36.5rem;
+    display: flex;
+    flex-direction: column;
+    margin-inline: auto;
+    text-align: center;
+   
+    border-radius: 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  main h2{
+
+    color: white;
+    margin-block: 3rem;
+    width: 36.5rem;
+    display: flex;
+    flex-direction: column;
+    margin-inline: auto;
+    text-align: center;
+   
+    border-radius: 1.5rem;
+    margin-bottom: 3rem;
+  }
+  table{
+color: blue;
+background-color: white;
+border-spacing: 0.9rem;
+
+
+
+  }
+  thead {
+    background-color: aqua;
+    
+
+    
+  }
+  
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+ 

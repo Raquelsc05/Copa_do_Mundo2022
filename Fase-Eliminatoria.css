@@ -36,6 +36,15 @@
   
   }
 
+  style h2 {
+    color: white;
+    display: flex;
+     flex-direction: column;
+   
+     text-align: center; 
+     align-items: center; 
+     margin-block: 3 rem;
+
   main img {
     display: flex;
   flex-direction: column;

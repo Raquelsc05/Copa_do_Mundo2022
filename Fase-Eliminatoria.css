@@ -36,6 +36,11 @@
   
   }
 
+  h2 {
+
+    color: white;
+  }
+
   style h2 {
     color: white;
     display: flex;

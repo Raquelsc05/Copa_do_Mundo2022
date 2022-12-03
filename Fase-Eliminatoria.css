@@ -77,11 +77,11 @@
 
   }
 
-  #eliminatorias .partidas {
+  #eliminatorias.partidas {
     text-align: center;
-justify-content: center;
+  justify-content: center;
 
-border: 1px solid white;
+  border: 1px solid white;
   box-sizing: border-box;
   border-radius: 1rem;
 
@@ -91,7 +91,7 @@ border: 1px solid white;
   display: flex;
   flex-direction: column;
   width: 37.5rem;
- padding: 1px;
+  padding: 1px;
   margin-inline: auto;
   }
 

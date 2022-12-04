@@ -97,7 +97,7 @@ border: 1px solid white;
   display: flex;
   flex-direction: column;
   width: 37.5rem;
- padding: 1px;
+ padding: 0.5px;
   margin-inline: auto;
   }
 

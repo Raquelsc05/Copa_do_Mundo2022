@@ -96,9 +96,10 @@ border: 1px solid white;
   margin-bottom: 3rem;
   display: flex;
   flex-direction: column;
-  width: 20rem;
+  width: 30.7rem;
  padding: 0.5px;
   margin-inline: auto;
+  height: 10rem;
   }
 
   #eliminatorias .partidas img {

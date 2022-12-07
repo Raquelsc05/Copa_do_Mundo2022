@@ -114,7 +114,7 @@ border: 1px solid white;
     margin-top: 3rem;
   }
 
-  #quartas h3 {
+  #Quartas h3 {
     color:rgb(48, 5, 5);
     margin-top: 3rem;
   
@@ -124,7 +124,7 @@ border: 1px solid white;
 
   }
 
-  #quartas .partidas {
+  #Quartas .partidas {
     text-align: center;
 justify-content: center;
 
@@ -142,7 +142,7 @@ border: 1px solid white;
   margin-inline: auto;
   }
 
-  #quartas .partidas img {
+  #Quartas .partidas img {
     width: 50px;
     justify-items: center;
     text-align: center;

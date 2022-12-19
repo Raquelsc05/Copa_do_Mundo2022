@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    }
+    
+    :root {
+    
+    font-size: 62.5%;
+    background:  hsl(346, 43%, 25%);
+    
+    }
+    body {
+      font-family: 'Dm Sans';
+      font-size: 2rem;
+      text-align: center;
+      margin-inline: auto;
+      width: 37.5rem;
+      
+    }
+  
+    header h1{
+   
+    color: white;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    margin-inline: auto;
+    width: 37.5rem;
+  
+    display: flex;
+    flex-direction: column;
+  
+   
+  
+    }

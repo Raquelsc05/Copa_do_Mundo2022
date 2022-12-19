@@ -67,8 +67,13 @@
 }
  
 
-  footer {
+  footer img {
 
     margin-top: 4rem;
+    display: flex;
+  flex-direction: column;
+    width: 37.5rem;
+    align-items: center;
+
   }
 

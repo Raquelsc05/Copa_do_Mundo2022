@@ -44,6 +44,14 @@
         margin-inline: auto;
     }
 
-    .poster img{
-        margin
+    .poster img {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    margin-inline: auto;
+    width: 37.5rem;
+  
+    
+  
+   
     }

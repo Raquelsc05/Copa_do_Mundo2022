@@ -38,6 +38,10 @@
 
     header h2 {
         color: yellow;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+        margin-inline: auto;
     }
 
     .poster img{
